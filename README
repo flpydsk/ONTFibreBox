@@ -1,0 +1,21 @@
+Copyright (C) 2022 FloppyDisk
+Licenced under GPL-3.0
+see LICENCE file for more details
+
+Box to extend the fibre from the chorus 100/200 ONT's
+
+adapts to single APC LC
+
+Note:
+Using this is against the chorus terms of service. their given reasoning is it could impact national avalability.
+In my opinion This is BS but use this at your own risk and knowing you are breaking the chorus TOS.
+
+This is designed to not damage or modify any existing things so this change can be reverted without chorus knowing.
+
+Ensure everything is APC(green connector) for PON stuff
+
+Parts list:
+1x https://www.fs.com/au/products/76115.html (This is a tray of 10. FS do not sell less than that. keep some extras incase you fuck up the connector on the ONT you can replace it by removing the back)
+1x https://www.fs.com/au/products/41918.html (Fibre cable. get some extra length and leave service loops so you can move stuff)
+
+Please remember to keep all optical components clean
